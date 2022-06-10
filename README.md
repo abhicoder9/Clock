@@ -1,2 +1,2 @@
 # Clock
-Create clock using HTML,CSS &amp; JAVASCRIPT
+Create clock using HTML,CSS & JAVASCRIPT
