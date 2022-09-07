@@ -7,9 +7,6 @@ body {
     background-color: aqua;
 }
 
-.tutorial{
-    text-align : center;
-}
 .clock {
     background-color: rgb(255, 244, 244);
     width: 300px;
@@ -117,8 +114,4 @@ body {
     z-index: 999;
     transform: translate(-50%, -50%);
     background-color: black;
-}
-
-a{
-    text-align : center;
 }
